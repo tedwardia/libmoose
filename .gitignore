@@ -1,0 +1,5 @@
+rpmbuild/RPMS/*
+rpmbuild/SRPMS/*
+rpmbuild/SOURCES/*
+rpmbuild/*rpm.log
+rpmbuild/*srpm.log
